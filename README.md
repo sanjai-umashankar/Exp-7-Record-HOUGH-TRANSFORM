@@ -24,7 +24,7 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ## Program:
 ### Name: SANJAI U
-### Register NUmber: 212224240145
+### Register Number: 212224240145
 ```
 import cv2
 import numpy as np
